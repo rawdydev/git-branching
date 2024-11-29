@@ -1,1 +1,1 @@
-alert("conflict1")
+alert("conflict 1")
