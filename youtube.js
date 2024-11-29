@@ -1,0 +1,1 @@
+consolel.log("setuped the project.")
