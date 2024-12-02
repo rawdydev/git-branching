@@ -1,1 +1,1 @@
-confirm("feature3")
+console.log("conlfict resolved")
