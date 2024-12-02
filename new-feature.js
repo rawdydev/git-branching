@@ -1,1 +1,1 @@
-confirm("feature2")
+console.log("feature done")
